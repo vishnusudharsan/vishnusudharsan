@@ -20,11 +20,17 @@
 
 ---
 
-
 ## 🌍 Connect With Me  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=20)](https://www.instagram.com/YOUR_INSTAGRAM)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+<p align="center">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 12px;">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 12px;">
+  </a>
+</p>
+
 
 
 
