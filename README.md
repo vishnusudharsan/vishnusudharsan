@@ -13,10 +13,11 @@
 ---
 
 ### 🔥 About Me  
-- 🎓 12th Grade | Aspiring to study at **IIT Madras**  
-- ⚡ Building **Quotidian Quotes, Quotan4Day, and a Safety App**  
-- 🖥️ Passionate about **AI, 3D Printing, Electronics, and Automation**  
-- 🔬 Exploring **Magnetic Wave Detection & AI-Powered Solutions**  
+🖥️ Passionate about AI, 3D Printing, Electronics, and Automation.  
+💡 Interested in Robotics, Cybersecurity, Hardware Projects, and IoT.  
+⚙️ Enjoy experimenting with innovative tech and hands-on projects.  
+🚀 Always exploring new advancements in AI and embedded systems.  
+🔍 Focused on solving real-world problems through technology.  
 
 ---
 
