@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));">
-  CTO of DiffuseAI
+  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24">
+  <span style="font-size: 32px;">CTO of DiffuseAI</span>
 </h1>
+
 
 <p align="center">
   🧠 AI Developer | 🔬 Tech & Science Enthusiast
