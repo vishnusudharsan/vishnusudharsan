@@ -38,10 +38,17 @@
 
 ---
 
-### 📌 Pinned Projects  
-🔹 [Quotidian Quotes](https://github.com/YOUR_USERNAME/Quotidian-Quotes) – Random quote generator with sorting & filtering  
-🔹 [Safety App](https://github.com/YOUR_USERNAME/Safety-App) – Emergency helpline & security features  
-🔹 [Magnetic Waves Detector](https://github.com/YOUR_USERNAME/Magnetic-Wave-Detector) – Detects magnetic field variations  
+## 📌 Featured Projects  
+
+[![Quotidian Quotes](https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Quotidian-Quotes)  
+🚀 **Quotidian Quotes** – A quote generator with filters & sorting.  
+
+[![Safety App](https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Safety-App)  
+🛡️ **Safety App** – Emergency helpline & safety features.  
+
+[![Magnetic Waves Detector](https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Magnetic-Wave-Detector)  
+🧲 **Magnetic Waves Detector** – Real-time detection & visualization.  
+
 
 ---
 
