@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="font-size: 36px;">
   <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24">
   <span style="font-size: 32px;">CTO of DiffuseAI</span>
 </h1>
