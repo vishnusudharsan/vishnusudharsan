@@ -40,14 +40,18 @@
 
 ## 📌 Featured Projects  
 
-[![Quotidian Quotes](https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Quotidian-Quotes)  
-🚀 **Quotidian Quotes** – A quote generator with filters & sorting.  
+🚀 **Quotidian Quotes**  
+🔹 A smart quote generator with sorting, filtering, and favorites.  
 
-[![Safety App](https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Safety-App)  
-🛡️ **Safety App** – Emergency helpline & safety features.  
+🛡️ **Safety App**  
+🔹 Emergency helpline & security features for instant help.  
 
-[![Magnetic Waves Detector](https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Magnetic-Wave-Detector)  
-🧲 **Magnetic Waves Detector** – Real-time detection & visualization.  
+🧲 **Magnetic Waves Detector**  
+🔹 Detects & visualizes magnetic field variations in real time.  
+
+💡 **DiffuseAI Innovations**  
+🔹 AI-driven projects exploring automation & deep learning.  
+
 
 
 ---
