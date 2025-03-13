@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="30"> CTO of DiffuseAi | 🧠 AI Developer | 🔬 Tech & Science Enthusiast
+  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="10"> CTO of DiffuseAi | 🧠 AI Developer | 🔬 Tech & Science Enthusiast
 </p>
 
 ---
