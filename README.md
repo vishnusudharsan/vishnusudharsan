@@ -40,17 +40,18 @@
 
 ## 📌 Featured Projects  
 
-🚀 **Quotidian Quotes**  
-🔹 A smart quote generator with sorting, filtering, and favorites.  
+🚗 **WiFi-Based Solar Car**  
+🔹 A smart solar-powered vehicle controlled via WiFi.  
+
+📡 **WiFi-Bluetooth Deauther Device**  
+🔹 A security tool for testing network vulnerabilities.  
 
 🛡️ **Safety App**  
 🔹 Emergency helpline & security features for instant help.  
 
-🧲 **Magnetic Waves Detector**  
-🔹 Detects & visualizes magnetic field variations in real time.  
-
 💡 **DiffuseAI Innovations**  
 🔹 AI-driven projects exploring automation & deep learning.  
+
 
 
 
