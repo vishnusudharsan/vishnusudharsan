@@ -1,9 +1,10 @@
-<h1 align="center"><img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24"> CTO of DiffuseAi</h1>
+<div align="center" style="background-color:#1e1e2e; padding:10px; border-radius:10px;">
+  <h1>
+    <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24"> CTO of DiffuseAI
+  </h1>
+  <p>🧠 AI Developer | 🔬 Tech & Science Enthusiast</p>
+</div>
 
-<p align="center">
-  <p align="center">
-    | 🧠 AI Developer | 🔬 Tech & Science Enthusiast
-</p>
 
 ---
 
