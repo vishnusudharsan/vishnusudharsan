@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 36px;">
-  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24">
+  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="23">
   <span style="font-size: 52px;">CTO of DiffuseAI</span>
 </h1>
 
