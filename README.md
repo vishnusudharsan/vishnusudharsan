@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Vishnu</h1>
+<h1 align="center"><img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="18">CTO of DiffuseAi</h1>
 
 <p align="center">
   <p align="center">
-  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="18"> CTO of DiffuseAi | 🧠 AI Developer | 🔬 Tech & Science Enthusiast
+    | 🧠 AI Developer | 🔬 Tech & Science Enthusiast
 </p>
 
 ---
