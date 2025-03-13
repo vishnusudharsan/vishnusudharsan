@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#1e1e2e; padding:10px; border-radius:10px;">
+<div align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
   <h1>
     <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24"> CTO of DiffuseAI
   </h1>
