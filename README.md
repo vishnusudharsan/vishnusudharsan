@@ -1,9 +1,11 @@
-<div align="center" style="background: url('DiffuseAiLogo.png') no-repeat center; background-size: cover; padding: 15px; border-radius: 10px;">
-  <h1>
-    <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24"> CTO of DiffuseAI
-  </h1>
-  <p>🧠 AI Developer | 🔬 Tech & Science Enthusiast</p>
-</div>
+<h1 align="center">
+  <img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="24" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));">
+  CTO of DiffuseAI
+</h1>
+
+<p align="center">
+  🧠 AI Developer | 🔬 Tech & Science Enthusiast
+</p>
 
 
 
