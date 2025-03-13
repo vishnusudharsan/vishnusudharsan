@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  🧠 AI Developer | 🔬 Tech & Science Enthusiast
+  🧠 AI Developer | 🔬 Tech & Science Enthusiast | ⚡ Innovator & Problem Solver
 </p>
 
 
