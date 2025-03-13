@@ -1,4 +1,4 @@
-<h1 align="center"><img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="30"> CTO of DiffuseAi</h1>
+<h1 align="center"><img src="DiffuseAiLogo.png" alt="DiffuseAI Logo" width="27"> CTO of DiffuseAi</h1>
 
 <p align="center">
   <p align="center">
