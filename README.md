@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vishnu</h1>
 
 <p align="center">
-  <p align="center">
+  <p >
   <img src="dai-logo-removebg-preview.png" alt="DiffuseAI Logo" width="150">
 </p>
  CTO of DiffuseAi | 🧠 AI Developer | 🔬 Tech & Science Enthusiast
