@@ -20,6 +20,14 @@
 
 ---
 
+
+## 🌍 Connect With Me  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=20)](https://www.instagram.com/YOUR_INSTAGRAM)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+
+
+
 ### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,17 +59,6 @@
 
 💡 **DiffuseAI Innovations**  
 🔹 AI-driven projects exploring automation & deep learning.  
-
-
-
-
----
-
-## 🌍 Connect With Me  
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vsnu4in)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsnu02)  
-
 
 
 ---
