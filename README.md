@@ -57,9 +57,11 @@
 
 ---
 
-### 🌍 Connect With Me  
-[![YouTube](https://img.shields.io/badge/YouTube-VSNUNO-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@VSNUNO)  
-[![Telegram](https://img.shields.io/badge/Telegram-The%20VSNU%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheVSNUGroup)  
+## 🌍 Connect With Me  
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vsnu4in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsnu02)  
+
 
 ---
 
